@@ -1,11 +1,8 @@
 ### Site Settings ###
-title               : sugarnyang.github.io
-description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
-baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : sugarnyang/sugarnyang.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+title               : 모코코 개발연구소
+description         : 개발하면서 겪는 일들을 정리하는 블로그 :coffee:
+baseurl             : ""                     # <your-username>.github.io에서 직접 사이트를 호스팅하는 경우 빈 따옴표로 변경하십시오.
+repository          : sugarnyang/sugarnyang.github.io     # <your-username>/<your-username>.github.io로 변경하십시오 (또는 원격 프로젝트가 필요하지 않은 경우 제거하십시오).
 remote_theme        : YoussefRaafatNasry/portfolYOU
 
 
